@@ -7,3 +7,6 @@
 
 ## Activity 3
 ![Activity3](https://github.com/jhlee741/ECE444-F2023-Assignment1/assets/75803498/bdf4f1d7-7240-4c2b-9027-5ee54e519b6e)
+
+## Activity 4
+![Activity4](https://github.com/jhlee741/ECE444-F2023-Assignment1/assets/75803498/30d0d978-944f-4f45-b40b-2b6f33048395)
