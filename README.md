@@ -4,3 +4,6 @@
 
 ## Activity 2
 ![Activity2](https://github.com/jhlee741/ECE444-F2023-Assignment1/assets/75803498/aa2d0459-d05c-4edc-9ba6-634588eb8f2a)
+
+## Activity 3
+![Activity3](https://github.com/jhlee741/ECE444-F2023-Assignment1/assets/75803498/bdf4f1d7-7240-4c2b-9027-5ee54e519b6e)
