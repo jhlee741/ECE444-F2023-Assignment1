@@ -37,7 +37,7 @@ class utils:
 
     def formatter(self):
         if isinstance(self.input, int):
-            #Line 38,39 modified method 2 from https://www.geeksforgeeks.org/python-program-to-covert-decimal-to-binary-number/
+            #Line 41,42 modified method 2 from https://www.geeksforgeeks.org/python-program-to-covert-decimal-to-binary-number/
             binary = bin(self.input).replace("0b", "")
             octal = oct(self.input).replace("0o", "")
             formatter_out = "binary: " + str(binary) + " | " + "octal: " + str(octal)
