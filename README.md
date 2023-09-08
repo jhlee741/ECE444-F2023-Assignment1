@@ -10,3 +10,8 @@
 
 ## Activity 4
 ![Activity4](https://github.com/jhlee741/ECE444-F2023-Assignment1/assets/75803498/30d0d978-944f-4f45-b40b-2b6f33048395)
+
+## Activity 5
+![Activity5a](https://github.com/jhlee741/ECE444-F2023-Assignment1/assets/75803498/aae64f1a-12c8-4c2c-ba87-44d66b793db5)
+![Activity5b](https://github.com/jhlee741/ECE444-F2023-Assignment1/assets/75803498/11003e93-9962-4e24-af81-14f37d04557c)
+![Activity5c](https://github.com/jhlee741/ECE444-F2023-Assignment1/assets/75803498/b125b285-e0f9-4224-8788-b06b2589f3d1)
