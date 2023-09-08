@@ -1,5 +1,6 @@
 import main
 
+# Creating a test utils class for each test case and running the class methods to assign the class variables
 test1 = main.utils(1)
 test1.reversed()
 test1.formatter()
@@ -40,6 +41,7 @@ test10 = main.utils(3567)
 test10.reversed()
 test10.formatter()
 
+#assigning the expected value for the reverse function for each unit test to a string
 test1solution_r = "1"
 test2solution_r = "654321"
 test3solution_r = "This method only takes integers as an input"
@@ -51,6 +53,7 @@ test8solution_r = "This method only takes integers as an input"
 test9solution_r = "46552"
 test10solution_r = "7653"
 
+#assigning the expected value for the format function for each unit test to a string
 test1solution_f = "binary: 1 | octal: 1"
 test2solution_f = "binary: 11110001001000000 | octal: 361100"
 test3solution_f = "This method only takes integers as an input"
@@ -62,6 +65,7 @@ test8solution_f = "This method only takes integers as an input"
 test9solution_f = "binary: 110001111011100 | octal: 61734"
 test10solution_f = "binary: 110111101111 | octal: 6757"
 
+# Variables for keeping track of how many pass and fails per each function
 pass_r = 0
 pass_f = 0
 fail_r = 0
@@ -194,6 +198,7 @@ else:
     fail_f = fail_f + 1
     print("Format Test 10: Fail\n")
 
+# Checking the pass and fail scenarios
 if pass_r == 10 and pass_f == 10:
     print("All tests passed, congrats!")
 elif pass_r == 10 and pass_f < 10:
@@ -202,4 +207,3 @@ elif pass_r < 10 and pass_f == 10:
     print("The formatter passed but not the reverser")
 elif pass_r < 10 and pass_f < 10:
     print("Both tests failed")
-
